@@ -1,4 +1,4 @@
-# SQL Otomasyon Proje
+# SQL kütüphane Otomasyon Projesi
 
 Bu proje, C# Windows Forms ve SQL Server kullanilarak gelistirilmis bir kutuphane otomasyon uygulamasidir.
 
