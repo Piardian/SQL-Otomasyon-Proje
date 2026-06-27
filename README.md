@@ -1,4 +1,4 @@
-# SQL Kütüphane Otomasyon Projesi
+# SQL Otomasyon Proje
 
 Bu proje, C# Windows Forms ve SQL Server kullanilarak gelistirilmis bir kutuphane otomasyon uygulamasidir.
 
@@ -8,6 +8,7 @@ Uygulama; kullanici girisi, kitap listeleme, kiralama islemleri, personel/kullan
 
 - `KutuphaneOtomasyon/`: C# Windows Forms kaynak kodlari.
 - `Database/`: SQL Server veritabani yedekleri ve sema ozeti.
+- `PowerBI/`: Kutuphane otomasyonu icin hazirlanmis Power BI dashboard dosyasi.
 
 ## Teknolojiler
 
@@ -16,6 +17,13 @@ Uygulama; kullanici girisi, kitap listeleme, kiralama islemleri, personel/kullan
 - .NET
 - SQL Server
 - Microsoft.Data.SqlClient
+- Power BI
+
+## Power BI Dashboard
+
+`PowerBI/kutuphane-dashboard.pbix` dosyasi, kutuphane otomasyon projesindeki verilerin Power BI uzerinde raporlanmasi ve gorsellestirilmesi icin hazirlanmistir.
+
+Dashboard; kutuphane sistemiyle ilgili verilerin daha okunabilir sekilde incelenmesini, raporlanmasini ve yonetim tarafinda hizli fikir vermesini amaclar. Power BI Desktop ile acilarak grafikler, tablolar ve rapor sayfalari uzerinden detayli analiz yapilabilir.
 
 ## Not
 
